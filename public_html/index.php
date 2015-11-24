@@ -134,6 +134,7 @@ switch ($_SERVER['HTTP_HOST']) {
 		break;
 	default:
 		$application_folder = '../app_www';
+		// $application_folder = '../app_www';
 		break;
 }
 /*
